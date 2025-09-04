@@ -67,7 +67,7 @@
     "fractional-indexing-jittered": "^1.0.0",
     "ioredis": "^5.4.1",
     "jszip": "^3.10.1",
-    "linkifyjs": "^4.2.0",
+    "linkifyjs": "^4.3.2",
     "marked": "^13.0.3",
     "uuid": "^11.1.0",
     "y-indexeddb": "^9.0.12",
